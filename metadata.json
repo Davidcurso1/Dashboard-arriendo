@@ -1,0 +1,6 @@
+{
+  "name": "Inteligencia Inmobiliaria Medellín",
+  "description": "Plataforma analítica avanzada para el análisis, visualización y predicción de arriendos en Medellín mediante modelos de Machine Learning (Random Forest, K-Means, SHAP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
